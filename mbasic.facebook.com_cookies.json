@@ -1,0 +1,23 @@
+{
+        "authority": "mbasic.facebook.com",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "accept-language": "en-FR,en;q=0.9,fr-FR;q=0.8,fr;q=0.7,en-GB;q=0.6,en-US;q=0.5",
+        "cache-control": "max-age=0",
+        "cookie": "sb=3Xy0Yo1I4grA896fRACLz93K; datr=3Xy0YqjSGLrv_-w9larF5CHk; c_user=61557244418668; xs=12%3ARLgwk21yo4rOmA%3A2%3A1710635780%3A-1%3A-1; fr=066u2OxPp7mAkRnVM.AWXHH8Wn1PBNuK8DoG_6xnL3t1c.BljF_w..AAA.0.0.Bl9jsD.AWVfl_fDdeA; m_page_voice=61557244418668; ps_n=0; ps_l=0",
+        "dpr": "1",
+        "referer": "https://mbasic.facebook.com/%7Bpage_name%7D?v=timeline&paipv=0&eav=AfZEK1cJY6rb1S24m2hDe56ghq2MTf-pYWTDxe4s7SynGjewx5I8k-dIikEq36CeZk0&ref=104&_rdr",
+        "sec-ch-prefers-color-scheme": "dark",
+        "sec-ch-ua": "\"Chromium\";v=\"122\", \"Not(A:Brand\";v=\"24\", \"Google Chrome\";v=\"122\"",
+        "sec-ch-ua-full-version-list": "\"Chromium\";v=\"122.0.6261.129\", \"Not(A:Brand\";v=\"24.0.0.0\", \"Google Chrome\";v=\"122.0.6261.129\"",
+        "sec-ch-ua-mobile": "?1",
+        "sec-ch-ua-model": "\"Nexus 5\"",
+        "sec-ch-ua-platform": "\"Android\"",
+        "sec-ch-ua-platform-version": "\"6.0\"",
+        "sec-fetch-dest": "document",
+        "sec-fetch-mode": "navigate",
+        "sec-fetch-site": "same-origin",
+        "sec-fetch-user": "?1",
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+        "viewport-width": "320"
+    }
